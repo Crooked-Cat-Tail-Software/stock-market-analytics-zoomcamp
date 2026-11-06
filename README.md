@@ -11,7 +11,7 @@ Each question starts from a fresh copy of the official Module 04 notebook, as th
 | Q1: CAGR for `pred10_rf_best_rule_55` with fewer dummies | [q1 notebook](%5B2026%5D_Module_04_Colab_Trading_Simulations_q1.ipynb) | 1.126 |
 | Q2: second-best RF threshold with < 5 trades/day | [q2 notebook](%5B2026%5D_Module_04_Colab_Trading_Simulations_q2.ipynb) | 0.57 |
 | Q3: avg. trades per day for `pred5_clf_10` (target > 1.022) | [q3 notebook](%5B2026%5D_Module_04_Colab_Trading_Simulations_q3.ipynb) | 8 |
-| Q4: ideal trading strategy | — | TODO: write in your own words |
+| Q4: ideal trading strategy | — |  |
 
 ### Edits per question
 - **Q1:** removed `Ticker` and `month_wom` from `CATEGORICAL` just before `pd.get_dummies()` (301 → 208 features).
