@@ -1,0 +1,16 @@
+target,model,params,valid_auc,valid_precision_at_0.55,valid_share_above_0.55,valid_top5_hit_rate,valid_top5_mean_growth,fit_seconds
+is_positive_growth_10d_future,dt,"{""max_depth"": 3, ""min_samples_leaf"": 200}",0.4878,0.5571,0.6155,0.6055,1.0092,50.3
+is_positive_growth_10d_future,dt,"{""max_depth"": 5, ""min_samples_leaf"": 200}",0.4703,0.5488,0.645,0.6055,1.0092,82.1
+is_positive_growth_10d_future,dt,"{""max_depth"": 7, ""min_samples_leaf"": 200}",0.4739,0.5639,0.7033,0.6064,1.0094,113.4
+is_positive_growth_10d_future,dt,"{""max_depth"": 9, ""min_samples_leaf"": 200}",0.4573,0.5645,0.7536,0.5989,1.0097,208.0
+is_positive_growth_10d_future,dt,"{""max_depth"": 12, ""min_samples_leaf"": 200}",0.4974,0.5696,0.6721,0.583,1.0139,266.9
+is_positive_growth_10d_future,rf,"{""max_depth"": 8, ""min_samples_leaf"": 50}",0.4967,0.5761,0.544,0.5745,1.0077,132.0
+is_positive_growth_10d_future,rf,"{""max_depth"": 8, ""min_samples_leaf"": 300}",0.5072,0.5743,0.5762,0.5952,1.009,101.2
+is_positive_growth_10d_future,rf,"{""max_depth"": 14, ""min_samples_leaf"": 50}",0.5014,0.5809,0.3355,0.5867,1.0082,120.4
+is_positive_growth_10d_future,rf,"{""max_depth"": 14, ""min_samples_leaf"": 300}",0.5052,0.581,0.4279,0.5956,1.0093,111.7
+is_positive_growth_10d_future,lr,"{""C"": 0.001}",0.5549,0.6026,0.4971,0.5894,1.0131,11.2
+is_positive_growth_10d_future,lr,"{""C"": 0.01}",0.5572,0.598,0.5588,0.5922,1.0123,18.3
+is_positive_growth_10d_future,lr,"{""C"": 0.1}",0.5537,0.5957,0.5952,0.5954,1.0151,20.6
+is_positive_growth_10d_future,xgb,"{""max_depth"": 3, ""min_child_weight"": 100, ""n_estimators"": 129}",0.4857,0.5658,0.4439,0.5782,1.013,75.8
+is_positive_growth_10d_future,xgb,"{""max_depth"": 5, ""min_child_weight"": 100, ""n_estimators"": 4}",0.4777,0.5625,0.5731,0.6007,1.0099,47.5
+is_positive_growth_10d_future,xgb,"{""max_depth"": 7, ""min_child_weight"": 100, ""n_estimators"": 82}",0.4835,0.5715,0.4142,0.5653,1.0076,67.8

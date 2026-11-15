@@ -1,0 +1,9 @@
+data/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+logs/
+reports/research_log.txt
+reports/nb02_log.txt
+notebooks/*.py.bak
+!notebooks/*.ipynb

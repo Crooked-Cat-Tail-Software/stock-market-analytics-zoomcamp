@@ -1,0 +1,11 @@
+Date,Ticker,sector,Close,proba_rf_rel,rank,stop_price,planned_exit,run_at
+2026-11-13,ET,Energy,19.4,0.5470552566814397,1,17.46,close of the 10th trading day after 2026-11-13,2026-11-15 13:49
+2026-11-13,CTAS,Industrials,226.24,0.545403400110229,2,203.616,close of the 10th trading day after 2026-11-13,2026-11-15 13:49
+2026-11-13,WELL,Real Estate,244.46,0.5446579135100506,3,220.014,close of the 10th trading day after 2026-11-13,2026-11-15 13:49
+2026-11-13,SCCO,Materials,164.08,0.5374874859660193,4,147.672,close of the 10th trading day after 2026-11-13,2026-11-15 13:49
+2026-11-13,CRM,Information Technology,217.84,0.5365490798114981,5,196.05598,close of the 10th trading day after 2026-11-13,2026-11-15 13:49
+2026-11-13,ET,Energy,19.4,0.5470552566814397,1,17.46,close of the 10th trading day after 2026-11-13,2026-11-15 13:55
+2026-11-13,CTAS,Industrials,226.24,0.545403400110229,2,203.616,close of the 10th trading day after 2026-11-13,2026-11-15 13:55
+2026-11-13,WELL,Real Estate,244.46,0.5446579135100506,3,220.014,close of the 10th trading day after 2026-11-13,2026-11-15 13:55
+2026-11-13,SCCO,Materials,164.08,0.5374874859660193,4,147.672,close of the 10th trading day after 2026-11-13,2026-11-15 13:55
+2026-11-13,CRM,Information Technology,217.84,0.5365490798114981,5,196.05598,close of the 10th trading day after 2026-11-13,2026-11-15 13:55
